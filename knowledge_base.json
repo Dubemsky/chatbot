@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "question": "Hi, how are you?",
+      "answer": "Hello! I'm doing well, thank you. How can I assist you today?"
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "I don't have a favorite color, but I'm here to help with any questions you have."
+    },
+    {
+      "question": "Tell me about yourself.",
+      "answer": "I'm just a chatbot designed to answer questions and have conversations. Feel free to ask me anything!"
+    },
+    {
+      "question": "Do you have any hobbies?",
+      "answer": "I don't have hobbies like humans do, but I enjoy helping users and providing information."
+    },
+    {
+      "question": "Where are you from?",
+      "answer": "I don't have a specific place of origin. I exist in the digital realm to assist you."
+    },
+    {
+      "question": "What's the time?",
+      "answer": "I don't have real-time capabilities, so I can't provide the current time. Please check your device's clock."
+    },
+    {
+      "question": "Can you tell me a riddle?",
+      "answer": "Of course! Here's one: I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I? (Answer: An echo)"
+    },
+    {
+      "question": "What's your favorite food?",
+      "answer": "I don't eat, so I don't have a favorite food. How can I assist you today?"
+    },
+    {
+      "question": "hi",
+      "answer": "hey"
+    },
+    {
+      "question": "where do you live",
+      "answer": "On the internet"
+    },
+    {
+      "question": "thaank you",
+      "answer": "your welcome"
+    },
+    {
+      "question": "hey",
+      "answer": "hi"
+    },
+    {
+      "question": "i want to get food",
+      "answer": "what you want to eat"
+    },
+    {
+      "question": "anything really",
+      "answer": "You can order online via platforms like Uber eats"
+    },
+    {
+      "question": "what is your name",
+      "answer": "My name is vortex"
+    },
+    {
+      "question": "Nice to meet you vortex",
+      "answer": "Nice to meet you to. How can I assist you today?"
+    },
+    {
+      "question": "HI",
+      "answer": "HEYY"
+    },
+    {
+      "question": "who is donald trump",
+      "answer": "He was the president of America"
+    },
+    {
+      "question": "i like footbal",
+      "answer": "That's is nice what position do you play?"
+    },
+    {
+      "question": "I like sports",
+      "answer": "What sports do you play?"
+    },
+    {
+      "question": "i play center back",
+      "answer": "Impressive "
+    },
+    {
+      "question": "what galaxy are we in",
+      "answer": "we are in the milky way galway"
+    }
+  ]
+}
